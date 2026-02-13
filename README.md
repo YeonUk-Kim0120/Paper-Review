@@ -33,10 +33,10 @@
 
 ## 세미나
 
-| 논문 제목                                   | 발표 자료                                                                                                                   | 날짜       |
-| ------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| K-SovereignAI                               | [PDF](./세미나/K-SovereignAI.pdf)                                                                                           | 2026-01-16 |
-| Resilient Sensor Fusion under<br>Adverse Sensor Failures via<br>Multi-Modal Expert Fusion | [PDF](./세미나/Resilient%20Sensor%20Fusion%20under%20Adverse%20Sensor%20Failures%20via%20Multi-Modal%20Expert%20Fusion.pdf) | 2025-10-22 |
+| 논문 제목                                                                           | 발표 자료                                                                                                                   | 날짜       |
+| ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| K-SovereignAI                                                                       | [PDF](./세미나/K-SovereignAI.pdf)                                                                                           | 2026-01-16 |
+| Resilient Sensor Fusion under Adverse Sensor Failures via Multi-Modal Expert Fusion | [PDF](./세미나/Resilient%20Sensor%20Fusion%20under%20Adverse%20Sensor%20Failures%20via%20Multi-Modal%20Expert%20Fusion.pdf) | 2025-10-22 |
 
 ---
 
