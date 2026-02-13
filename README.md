@@ -13,8 +13,8 @@
 
 | 논문 제목 | 발표 자료 | 날짜 |
 |----------|----------|------|
-| PixelSplat | [PDF](./스터디/PixelSplat.pdf) | 2026-01-09 |
 | MVSplat | [PDF](./스터디/mvsplat.pdf) | 2026-02-12 |
+| PixelSplat | [PDF](./스터디/PixelSplat.pdf) | 2026-01-09 |
 | MobileR2L | [PDF](./스터디/MobileR2L.pdf) | 2025-12-05 |
 | MeRF | [PDF](./스터디/MeRF.pdf) | 2025-11-28 |
 | MegaNeRF | [PDF](./스터디/MegaNerf.pdf) | 2025-09-19 |
