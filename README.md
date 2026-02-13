@@ -4,21 +4,21 @@
 
 ## ��� 세미나
 
-| 논문 제목 | 발표 자료 |
-|----------|----------|
-| K-SovereignAI | [PDF](./세미나/K-SovereignAI.pdf) |
-| Resilient Sensor Fusion under Adverse Sensor Failures via Multi-Modal Expert Fusion | [PDF](./세미나/Resilient%20Sensor%20Fusion%20under%20Adverse%20Sensor%20Failures%20via%20Multi-Modal%20Expert%20Fusion.pdf) |
+| 논문 제목 | 발표 자료 | 날짜 |
+|----------|----------|------|
+| K-SovereignAI | [PDF](./세미나/K-SovereignAI.pdf) | 2026-01-16 |
+| Resilient Sensor Fusion under Adverse Sensor Failures via Multi-Modal Expert Fusion | [PDF](./세미나/Resilient%20Sensor%20Fusion%20under%20Adverse%20Sensor%20Failures%20via%20Multi-Modal%20Expert%20Fusion.pdf) | 2025-10-22 |
 
 ## ��� 스터디
 
-| 논문 제목 | 발표 자료 |
-|----------|----------|
-| PixelSplat | [PDF](./스터디/PixelSplat.pdf) |
-| MVSplat | [PDF](./스터디/mvsplat.pdf) |
-| MobileR2L | [PDF](./스터디/MobileR2L.pdf) |
-| MeRF | [PDF](./스터디/MeRF.pdf) |
-| MegaNeRF | [PDF](./스터디/MegaNerf.pdf) |
-| Depth-Supervised NeRF | [PDF](./스터디/Depth-Supervised%20NeRF.pdf) |
+| 논문 제목 | 발표 자료 | 날짜 |
+|----------|----------|------|
+| PixelSplat | [PDF](./스터디/PixelSplat.pdf) | 2026-01-09 |
+| MVSplat | [PDF](./스터디/mvsplat.pdf) | 2026-02-12 |
+| MobileR2L | [PDF](./스터디/MobileR2L.pdf) | 2025-12-05 |
+| MeRF | [PDF](./스터디/MeRF.pdf) | 2025-11-28 |
+| MegaNeRF | [PDF](./스터디/MegaNerf.pdf) | 2025-09-19 |
+| Depth-Supervised NeRF | [PDF](./스터디/Depth-Supervised%20NeRF.pdf) | 2025-08-28 |
 
 ---
 
